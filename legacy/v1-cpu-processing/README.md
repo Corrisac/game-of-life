@@ -31,4 +31,5 @@ This project uses the `core-4.5.2.jar` Processing library for hardware-accelerat
 *(Note: `-encoding UTF-8` ensures the modern UI text symbols compile correctly in Windows terminals).*
 ```bash
 javac -encoding UTF-8 -cp ".;core-4.5.2.jar" Cell.java Grid.java BackgroundScreen.java Main.java
+
 ![Simulation Screenshot](image.png)
